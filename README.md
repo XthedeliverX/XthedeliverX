@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @XthedeliverX
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Solidity, javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me Twitter.com/brickjawnT
+- 👋 Hi All
+- 👀 I’m interested in Security, Blockchain, and breaking stuff lol
+- 🌱 I’m currently learning java, Javascript, and solidity
+- 💞️ I’m looking to collaborate on some cool security projects!
+- 📫 How to reach me Twitter.com/@Zoo_mind
 
 <!---
 XthedeliverX/XthedeliverX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
